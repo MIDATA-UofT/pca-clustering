@@ -1,5 +1,7 @@
 # Understanding the Impact of Dataset Heterogeneity on Convolutional Neural Network Model Training
 
+## Author: Stanley Hua - ROP 2020-2021
+
 Proposed by [Mendez, Calderon and Tyrrell](https://link.springer.com/chapter/10.1007/978-3-030-41005-6_21) in 2019. The methodology is as follows:
 
 1. **Feature Extraction**
